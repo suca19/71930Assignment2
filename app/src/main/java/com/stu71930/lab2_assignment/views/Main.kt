@@ -37,7 +37,7 @@ fun MainView(navController: NavController) {
         topBar = {
             TopAppBar(
                 colors = TopAppBarDefaults.topAppBarColors(
-                    containerColor = Color(android.graphics.Color.parseColor("#24243C")),
+                    containerColor = Color(android.graphics.Color.parseColor("#0000FF")),
                     titleContentColor = Color(android.graphics.Color.parseColor("#EBECEC"))
                 ),
                 title = {

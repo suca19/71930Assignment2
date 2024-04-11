@@ -3,7 +3,7 @@ package com.stu71930.lab2_assignment.models
 import androidx.compose.runtime.mutableIntStateOf
 import kotlin.random.Random
 import androidx.compose.runtime.MutableState
-import androidx.compose.runtime.mutableIntStateOf
+
 
 
 data class Movie(
